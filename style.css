@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    margin-top: 5%;
+}
+#map { 
+    margin-top: 10%;
+    height: 60vh; 
+}
+.form{
+    margin-top: 15%;
+    padding-left: 10%;
+    padding-right: 0;
+}
